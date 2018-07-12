@@ -1,1 +1,1 @@
-<?php echo 'how are you? all';?>
+<?php echo 'how are you? hows going all';?>
